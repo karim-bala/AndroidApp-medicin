@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">medicineApp</string>
+    <string name="classe_therapeutique">classe_therapeutique</string>
+    <string name="nom_commercial" />
+    <string name="laboratoire" />
+    <string name="denomination_du_medicament" />
+    <string name="form_pharmaceutique" />
+    <string name="duree_de_conservation" />
+    <string name="nom_Commercial" />
+</resources>
